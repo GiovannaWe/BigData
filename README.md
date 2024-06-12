@@ -22,4 +22,3 @@ Este projeto utiliza o Streamlit que permite a vizualização do trimestre de ve
 ├── app.py
 └── requirements.txt
 ```
-# BigData
